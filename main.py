@@ -38,7 +38,7 @@ class Main:
         self.window=root
 
         self.L1=tk.Label(self.window, text="CORPO")
-        self.L1.grid(column=2)
+        self.L1.pack()
 
 
 if __name__ == "__main__":

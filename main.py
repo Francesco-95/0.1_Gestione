@@ -1,10 +1,3 @@
-"""****************************************************************************
- 1° Prova per la greazione grafica del gestionale.
- Utilizzo libreria TkInter
-
-  Siciliano Francesco il 25/01/2022
-****************************************************************************/"""
-
 import tkinter as tk
 
 class Main:
